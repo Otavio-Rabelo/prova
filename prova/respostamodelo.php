@@ -92,3 +92,32 @@
 
 </body>
 </html>
+<div class="card mt-3">
+
+    <div class="card-header">
+        Título do Card
+    </div>
+
+    <div class="card-body">
+
+        <h4>Subtítulo</h4>
+
+        <p>
+            Conteúdo do card
+        </p>
+
+        <p>
+            Mais informações aqui
+        </p>
+
+    </div>
+
+    <div class="card-footer">
+
+        <a href="index.php" class="btn btn-secondary btn-sm">
+            Voltar
+        </a>
+
+    </div>
+
+</div>
